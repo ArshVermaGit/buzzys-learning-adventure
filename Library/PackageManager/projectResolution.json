@@ -19,6 +19,16 @@
       "source": "builtin",
       "testable": false
     },
+    "com.unity.ugui@2.0.0": {
+      "name": "com.unity.ugui",
+      "displayName": "Unity UI",
+      "resolvedPath": "/Users/arshverma/GitHub/BuzzysLearningAdventure/Library/PackageCache/com.unity.ugui@e375ff18e90f",
+      "fingerprint": "e375ff18e90f823f9c3d4ffbc1532d6cde85ed48",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "2.0.0",
+      "source": "builtin",
+      "testable": false
+    },
     "com.unity.modules.accessibility@1.0.0": {
       "name": "com.unity.modules.accessibility",
       "displayName": "Accessibility",
