@@ -300,3 +300,43 @@ Received Import Request.
 Start importing Assets/Sprites/Characters/buzzy_main.png using Guid(b93cad5d4b959493a931120aec1507a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '283777b7719345f9ba6e6a538be356b2') in 0.082345875 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
 
+========================================================================
+Received Import Request.
+  Time since last request: 2223.079815 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(013b426456d9046d48ef474c4630370a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(013b426456d9046d48ef474c4630370a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9f0a40eebaade255c08cc84a3daa910c') in 0.038032041 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.799513 seconds.
+  path: Assets/Animations/Buzzy
+  artifactKey: Guid(0e519d766228b43679929972977eb3d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Buzzy using Guid(0e519d766228b43679929972977eb3d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd6d501f6223a70068bff149e5fc297a8') in 0.002675083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.655623 seconds.
+  path: Assets/Animations/Buzzy/Buzzy_Happy.anim
+  artifactKey: Guid(fe0e4b96d6f034718b8fb3f4ae2e194f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Buzzy/Buzzy_Happy.anim using Guid(fe0e4b96d6f034718b8fb3f4ae2e194f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '19e8908bd1cad1ad48025e95d0b39590') in 0.118242458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.780793 seconds.
+  path: Assets/Animations/Buzzy/Buzzy_Idle.anim
+  artifactKey: Guid(3c19ecca42a084692b72599870212aca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Buzzy/Buzzy_Idle.anim using Guid(3c19ecca42a084692b72599870212aca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3be64d1e30dd1adc2c50f7675fac51ff') in 0.002050792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 5794.411544 seconds.
+  path: Assets/Animations/Buzzy/Buzzy_Happy.anim
+  artifactKey: Guid(fe0e4b96d6f034718b8fb3f4ae2e194f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Buzzy/Buzzy_Happy.anim using Guid(fe0e4b96d6f034718b8fb3f4ae2e194f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2176895a288d0589a6ae142feac3748a') in 0.013775875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
