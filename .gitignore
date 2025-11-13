@@ -1,0 +1,8 @@
+*.csproj
+*.meta
+*.txt
+*.ttf
+*.mat
+*.prefab
+*.asset
+*.unity
